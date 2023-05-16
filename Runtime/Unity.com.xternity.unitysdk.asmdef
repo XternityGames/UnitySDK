@@ -1,0 +1,17 @@
+{
+    "name": "Unity.com.xternity.unitysdk",
+    "rootNamespace": "Xternity",
+    "references": [
+        "GUID:6072ff9f89bd62d47b74cc86f09c3384",
+        "GUID:596e39663a72acf4fa56e4e213a23ff3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,35 @@
+{
+    "name": "com.xternity.unitysdk",
+    "version": "0.1.1",
+    "displayName": "Xternity SDK",
+    "description": "Xternity provides backend and play services based on WEB3 principles.",
+    "unity": "2021.3",
+    "keywords": 
+    [
+      "WEB3",
+      "web3",
+      "play services",
+      "backend services"
+    ],
+    "repository": 
+    {
+    "url": "https://github.com/XternityGames/unity-sdk.git",
+    "type": "git"
+    },
+"license" : "MIT",
+"dependencies": {
+  "com.unity.nuget.newtonsoft-json": "3.2.1"
+},
+"samples": [
+    {
+      "displayName": "Demo",
+      "description": "Shows the basics of the Xternity SDK.",
+      "path": "Samples~/Demo"
+    }
+],
+    "author": {
+      "name": "Xternity",
+      "email": "dor@xternity.games",
+      "url": "https://www.xternity.io/"
+    }
+}
