@@ -53,6 +53,9 @@ namespace Xternity.Samples
 
         private void Start()
         {
+            if (string.IsNullOrEmpty(ProjectID))
+                Debug.LogError("Make sure you set your projectID before using the SDK demo.", this);
+
             Xternity.Core.Init(ProjectID);
 
             AuthenticationView.SetActive(true);

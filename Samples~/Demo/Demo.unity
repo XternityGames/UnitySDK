@@ -1350,7 +1350,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1978972707}
   m_HandleRect: {fileID: 1978972706}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 978143071}
   m_HandleRect: {fileID: 978143070}
   m_Direction: 0
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -5131,7 +5131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 870be41f7b9580f40901c7e9fb17a719, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ProjectID: 62d92365be1cbc2b059279fb
+  ProjectID: 
   AuthenticationView: {fileID: 385434981}
   PlayerActions: {fileID: 1048834380}
   Buffering: {fileID: 1521619120}
